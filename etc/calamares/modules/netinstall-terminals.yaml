@@ -7,7 +7,6 @@
   packages:
     - alacritty
     - gnome-terminal
-    - guake
     - kitty
     - konsole
     - lxterminal
