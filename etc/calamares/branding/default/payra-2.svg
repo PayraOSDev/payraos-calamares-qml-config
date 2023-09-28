@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+	<title>1920x1080</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="-23.382685902179844" dy="13.499999999999998" stdDeviation="5.416666666666667" flood-color="#000000" flood-opacity=".6"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f2" ><feDropShadow dx="-23.382685902179844" dy="13.499999999999998" stdDeviation="5.416666666666667" flood-color="#000000" flood-opacity=".6"/></filter>
+	</defs>
+	<style>
+		.s0 { filter: url(#f1);fill: #7a83ff } 
+		.s1 { filter: url(#f2);fill: #ffffff } 
+	</style>
+	<path id="&lt;Path&gt;" class="s0" d="m997 638.1c90.6 0 169.1-68.8 174.7-159.2q0.3-5.4 0.3-10.7c0-106.4-79.3-172.2-206.1-172.2h-174c-24.8 0-44.9 20.1-44.9 44.9 0 24.9 20.2 45 45 44.9l167.8-0.3c67.1 0 101 30.5 101 82.7 0 51.5-33.9 82.7-101 82.7-24.3 0-43.8 20-43.2 44.3v0.8c0.6 23.4 19.8 42.1 43.2 42.1z"/>
+	<path id="&lt;Path&gt;" class="s1" d="m816.1 783.8c-25.3 0-45.8-20.6-45.8-45.9v-266.1c0-25.3 20.5-45.8 45.8-45.8h143.4c25.3 0 45.8 20.5 45.8 45.8 0 25.3-20.5 45.8-45.8 45.8h-97.5v220.3c0 25.3-20.5 45.9-45.9 45.9z"/>
+</svg>

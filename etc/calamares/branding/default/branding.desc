@@ -121,11 +121,11 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         Carli
-    shortProductName:    Carli
-    version:             2021.07.1
-    shortVersion:        2021.07
-    versionedName:       Carli
+    productName:         PayraOS
+    shortProductName:    PayraOS
+    version:             badblood
+    shortVersion:        badblood
+    versionedName:       1.0
     #shortVersionedName:  Carli
     bootloaderEntryName: Generic
 #   productUrl:          https://calamares.io/
@@ -164,9 +164,9 @@ strings:
 images:
     # productBanner:       "banner.png"
     # productIcon:         "squid.png"
-    productLogo:         "logo.png"
+    productLogo:         "payra-logo.png"
     # productWallpaper:    "wallpaper.png"
-    productWelcome:      "carli-2.svg"
+    productWelcome:      "payra-2.svg"
 
 # Colors for text and background components.
 #
