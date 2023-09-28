@@ -35,7 +35,7 @@ Presentation
 
     Image {
         id: background1
-        source: "1-welcometo.svg"
+        source: "calamares_welcome.svg"
         width: parent.width; height: parent.height
         horizontalAlignment: Image.AlignCenter
         verticalAlignment: Image.AlignTop
